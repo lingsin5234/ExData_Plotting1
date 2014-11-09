@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 #My assignment for Exploratory Data Analysis from Coursera
 
 There are four plots and four .R files with the codes corresponding to each plot. All the instructions for this assignment are below.
 
 
-=======
->>>>>>> 73fe5c675a2db951b302bfd68524bf7a56094d46
+==========================================================
+
 ## Introduction
 
 This assignment uses data from
